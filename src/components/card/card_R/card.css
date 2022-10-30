@@ -1,0 +1,22 @@
+.char_card {
+    background-color: #232222;
+    
+    margin-right: 80px;
+    margin-bottom: 60px;
+
+    padding: 30px 40px;
+}
+.c_card {
+    max-width: 265px;
+    max-height: 360px;
+    background-color: #232222;
+}
+.card_p {
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
+.imgR_M{
+    margin: 30px;
+}
